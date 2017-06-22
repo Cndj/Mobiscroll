@@ -5,7 +5,7 @@
 ## 解密
 
 ```base64
-6Kej5a+G5Zyw5Z2A77yaaHR0cDovL3Rvb2wuY2hpbmF6LmNvbS90b29scy90ZXh0ZW5jcnlwdC5hc3B4DQrlr4bnoIHvvJoxMjM0NTYNCuaWueW8jyDvvJogQUVT
+6Kej5a+G5Zyw5Z2A77yaaHR0cDovL3Rvb2wuY2hpbmF6LmNvbS90b29scy90ZXh0ZW5jcnlwdC5hc3B4DQrmlrnlvI8g77yaIEFFUw==
 ```
 将上面的字符串进行BASE64解密，即可看到下面字符串的解密方式
 
